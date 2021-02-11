@@ -1,0 +1,34 @@
+.fnt-xs {
+    font-size: .8em;    
+}
+
+.fnt-base {
+    font-size: 1em;
+    text-align: center;    
+}
+
+.fnt-md {
+    font-size: 1.5em;    
+}
+
+.fnt-lg {
+    font-size: 2.5em;
+}
+
+.fnt-xl {
+    font-size: 5em;
+} 
+.par{
+    display: flex;
+    font-family: 'Gill Sans';
+    text-align: center;
+    padding: .5em;
+    font-size: 1.5em;
+
+}
+.pd3{
+    padding: 3px;
+}
+.pd4{
+    padding: 4px;
+}

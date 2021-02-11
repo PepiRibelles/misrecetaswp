@@ -1,0 +1,22 @@
+
+
+.img-med{
+    width: 100%;
+    height: 40vh;
+    border-radius: 35%;
+    border-style: solid;
+
+
+   
+}
+.img-rec{
+    width: 70%;
+    height: 50vh;
+    object-fit: cover;
+    margin-top: 20px;
+    
+}
+.bord1{
+    border-style: solid;
+    border-color: rgb(9, 97, 9);
+}

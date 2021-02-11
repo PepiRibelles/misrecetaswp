@@ -1,0 +1,14 @@
+.navy  {
+    text-decoration: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 1.2em;
+    color: rgb(40, 119, 75);
+
+}
+.nave{
+    display: flex;
+    text-align: center;
+    padding: 4px;
+    color: rgb(4, 78, 4);
+
+}
