@@ -7,8 +7,11 @@
 }
 .nave{
     display: flex;
-    text-align: center;
+    text-align:center ;
     padding: 4px;
     color: rgb(4, 78, 4);
 
+}
+.nav-main span{
+    margin-right:0 .5em ;
 }
