@@ -20,3 +20,10 @@ if (!function_exists('my_theme_setup')):
     }
 endif;
 add_action('after_setup_theme', 'my_theme_setup');
+
+
+
+
+
+
+

@@ -169,3 +169,61 @@
 [16-Feb-2021 02:05:44 UTC] PHP Parse error:  syntax error, unexpected 'register_nav_menus' (T_STRING) in C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-content\themes\Misrecetas\functions.php on line 13
 [16-Feb-2021 02:05:44 UTC] PHP Parse error:  syntax error, unexpected 'register_nav_menus' (T_STRING) in C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-content\themes\Misrecetas\functions.php on line 13
 [16-Feb-2021 02:05:44 UTC] PHP Parse error:  syntax error, unexpected 'register_nav_menus' (T_STRING) in C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-content\themes\Misrecetas\functions.php on line 13
+[16-Feb-2021 16:40:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function posts() in C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-content\themes\Misrecetas\index.php:17
+Stack trace:
+#0 C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Josefa...')
+#2 C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Josefa...')
+#3 {main}
+  thrown in C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-content\themes\Misrecetas\index.php on line 17
+[16-Feb-2021 16:41:36 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-content\themes\Misrecetas\index.php on line 17
+[16-Feb-2021 16:45:20 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-content\themes\Misrecetas\index.php on line 41
+[16-Feb-2021 16:46:22 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-content\themes\Misrecetas\index.php on line 41
+[16-Feb-2021 16:47:02 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-content\themes\Misrecetas\index.php on line 41
+[16-Feb-2021 16:47:31 UTC] PHP Warning:  Use of undefined constant t_endif - assumed 't_endif' (this will throw an Error in a future version of PHP) in C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-content\themes\Misrecetas\index.php on line 41
+[16-Feb-2021 16:47:31 UTC] PHP Stack trace:
+[16-Feb-2021 16:47:31 UTC] PHP   1. {main}() C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\index.php:0
+[16-Feb-2021 16:47:31 UTC] PHP   2. require() C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\index.php:17
+[16-Feb-2021 16:47:31 UTC] PHP   3. require_once() C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-blog-header.php:19
+[16-Feb-2021 16:47:31 UTC] PHP   4. include() C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 16:48:51 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-content\themes\Misrecetas\index.php on line 41
+[16-Feb-2021 16:53:28 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-content\themes\Misrecetas\index.php on line 41
+[16-Feb-2021 16:54:21 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-content\themes\Misrecetas\index.php on line 41
+[16-Feb-2021 16:54:36 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-content\themes\Misrecetas\index.php on line 41
+[16-Feb-2021 16:55:25 UTC] PHP Warning:  Use of undefined constant t_endif - assumed 't_endif' (this will throw an Error in a future version of PHP) in C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-content\themes\Misrecetas\index.php on line 41
+[16-Feb-2021 16:55:25 UTC] PHP Stack trace:
+[16-Feb-2021 16:55:25 UTC] PHP   1. {main}() C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\index.php:0
+[16-Feb-2021 16:55:25 UTC] PHP   2. require() C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\index.php:17
+[16-Feb-2021 16:55:25 UTC] PHP   3. require_once() C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-blog-header.php:19
+[16-Feb-2021 16:55:25 UTC] PHP   4. include() C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 17:04:21 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-content\themes\Misrecetas\index.php on line 41
+[16-Feb-2021 17:05:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-content\themes\Misrecetas\index.php:85
+Stack trace:
+#0 C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Josefa...')
+#2 C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Josefa...')
+#3 {main}
+  thrown in C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-content\themes\Misrecetas\index.php on line 85
+[16-Feb-2021 17:12:57 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-content\themes\Misrecetas\functions.php on line 30
+[16-Feb-2021 17:12:57 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-content\themes\Misrecetas\functions.php on line 30
+[16-Feb-2021 17:13:19 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-content\themes\Misrecetas\functions.php on line 30
+[16-Feb-2021 17:13:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function acf_register_store() in C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-content\themes\Misrecetas\functions.php:33
+Stack trace:
+#0 C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-settings.php(525): include()
+#1 C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-config.php(77): require_once('C:\\Users\\Josefa...')
+#2 C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-load.php(37): require_once('C:\\Users\\Josefa...')
+#3 C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Josefa...')
+#4 C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Josefa...')
+#5 {main}
+  thrown in C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-content\themes\Misrecetas\functions.php on line 33
+[16-Feb-2021 17:13:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function acf_register_store() in C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-content\themes\Misrecetas\functions.php:33
+Stack trace:
+#0 C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-settings.php(525): include()
+#1 C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-config.php(77): require_once('C:\\Users\\Josefa...')
+#2 C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-load.php(37): require_once('C:\\Users\\Josefa...')
+#3 C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Josefa...')
+#4 C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Josefa...')
+#5 {main}
+  thrown in C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-content\themes\Misrecetas\functions.php on line 33
+[16-Feb-2021 17:15:20 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-content\themes\Misrecetas\functions.php on line 29
+[16-Feb-2021 17:16:07 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\Josefa\Desktop\Curso-WEBS\misrecetaswp\app\public\wp-content\themes\Misrecetas\index.php on line 41
